@@ -30,14 +30,9 @@ Ideal para empresas e equipes que desejam organizar demandas internas sem depend
 
 # 🛠️ Tecnologias Utilizadas
 
-- **C#**
-- **ASP.NET Core MVC**
-- **Entity Framework**
-- **HTML5**
-- **CSS3**
-- **SQL Server**
-- **MySQL**
-- **Git & GitHub**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,mysql,vscode" />
+</p>
 
 ---
 
