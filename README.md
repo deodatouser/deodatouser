@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou Pedro Deodato
+<p align="center">
+  <h1 align="center">Olá, eu sou Pedro Deodato 👋</h1>
+</p>
 
 🎯 Desenvolvedor .NET focado em soluções práticas, organizadas e funcionais.
 
