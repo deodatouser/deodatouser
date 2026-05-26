@@ -39,6 +39,7 @@ Sistema web completo para abertura, acompanhamento e gestão de chamados de supo
 ---
 
 ## 📊 GitHub Stats
+
 ![deodatouser GitHub Stats](https://github-readme-stats.vercel.app/api?username=deodatouser&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deodatouser&layout=compact&theme=dark)
