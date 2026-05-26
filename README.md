@@ -6,6 +6,11 @@ Tenho como objetivo criar sistemas que resolvam problemas reais, utilizando boas
 
 ---
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+.NET;ASP.NET+Core+MVC;Projetos+Reais;Back-End+Developer" />
+</p>
+
 # 🚀 Projeto em destaque — Sistema de Chamados (Help Desk)
 
 Sistema web completo para abertura, acompanhamento e gerenciamento de chamados de suporte técnico.
