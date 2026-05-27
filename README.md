@@ -21,12 +21,13 @@ Ideal para empresas e equipes que desejam organizar demandas internas sem depend
 
 ## ✨ Funcionalidades
 
-- 🔐 Autenticação de usuários
-- 👤 Controle de acesso (Admin / Usuário)
-- 📌 Abertura e gerenciamento de chamados
-- 🛠️ Edição e acompanhamento de solicitações
-- 📊 Painel administrativo
-- 📱 Layout responsivo e intuitivo
+-  Autenticação de usuários
+-  Controle de acesso (Admin / Usuário)
+-  Abertura e gerenciamento de chamados
+-  Edição e acompanhamento de solicitações
+-  Painel administrativo
+-  Layout responsivo e intuitivo
+-  Inteligencia Artificial intermediando chamados
 
 ---
 
